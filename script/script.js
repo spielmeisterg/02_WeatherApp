@@ -12,4 +12,4 @@ weather.currentTemp.innerHTML = `${21}c`;
 weather.currentHumidity.innerHTML = `${32}%`;
 weather.currentWindSpeed.innerHTML = `${8}m/s`;
 weather.currentWindDirection.innerHTML = `NE`;
-console.log(weather);
+console.log(weather)
