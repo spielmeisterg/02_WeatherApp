@@ -1,0 +1,38 @@
+##############################################secrets##############################
+    mapbox api key: pk.eyJ1Ijoic3BpZWxtZWlzdGVyIiwiYSI6ImNsdGp2ZG9hOTA4YWUyam1yZnhueHBscWMifQ.VyRYo52zZVNm2OWiJvIYNQ
+location:
+form:
+    search bar for location (
+                                https://nordicapis.com/5-powerful-alternatives-to-google-maps-api/,
+                                http://mapbox.com (looks good)
+                                )
+    submit button
+
+upon submit:
+request api for weather information on the location in the search bar
+
+
+
+weather widgets
+    current weather:
+        temperature
+        humidity
+        wind direction
+        wind speed
+    
+    forecast today:
+        temperature per hour
+        humidity per hour
+        wind direction per hour
+        wind speed per hour
+    
+    forecast weekly:
+        average temperature daily
+        average humidity daily
+        average wind direction daily
+        average wind speed daily
+
+
+
+on no information:
+show placeholder data
