@@ -1,5 +1,9 @@
 ##############################################secrets##############################
     mapbox api key: pk.eyJ1Ijoic3BpZWxtZWlzdGVyIiwiYSI6ImNsdGp2ZG9hOTA4YWUyam1yZnhueHBscWMifQ.VyRYo52zZVNm2OWiJvIYNQ
+    mapbox uuid: e64d21a4-9e6f-4e79-bdc1-94dc4d32d9e6
+
+
+    
 location:
 form:
     search bar for location (

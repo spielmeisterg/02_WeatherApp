@@ -3,14 +3,23 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script src="script/secrets.js" ></script>
     <link rel="stylesheet" href="style/style.css" />
     <title>WeatherAPI</title>
   </head>
   <body>
     <header>
       <h1>WeatherAPI</h1>
-      <div id="user_location">
-        <input type="text" name="user_location" id="user_location">
+      <div id="">
+        <input list="locations" name="user_location" id="user_location">
+          <datalist id="locations">
+            <option value="placeholder1">
+            <option value="placeholder2">
+            <option value="placeholder3">
+            <option value="placeholder4">
+            <option value="placeholder5">
+          </datalist>
+        
         <input type="submit" value="submit">
       </div>
     </header>
